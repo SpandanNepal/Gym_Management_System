@@ -1,0 +1,40 @@
+INSERTING VALUES IN MEMBERS
+
+insert into members values(1,'Subash','subashg@gmail.com','23-MAR-1998','M','BIRGUNJ NEPAL','12-AUG-2018');
+insert into members values(2,'Spandan','spandann@gmail.com','10-aug-1998','M','Kathmandu NEPAL','13-AUG-2018');
+insert into members values(3,'Bibek','bibekb@gmail.com','11-MAR-1998','M','Pokhara NEPAL','14-AUG-2018');
+insert into members values(4,'Nabin','nabink@gmail.com','02-dec-1998','M','Bhairawa NEPAL','15-AUG-2018');
+insert into members values(5,'Sujan','sujangh@gmail.com','05-jan-1998','M','Lalitpur NEPAL','16-AUG-2018');
+insert into members values(6,'Reshma','reshma@gmail.com','11-dec-1997','F','Koteshwor Nepal','12-APR-2018');
+insert into members values(7,'Mahima','mahima@gmail.com','17-dec-1997','F','Simara Nepal','19-JAN-2018');
+
+
+INSERTING VALUES IN ACTIVITY
+
+insert into activity values(1,'16-April-2018','ZumbaFitness');
+insert into activity values(2,'17-April-2018','BodyBuilding');
+insert into activity values(3,'18-April-2018','Yoga');
+
+INSERING VALUES IN PACKAGE
+
+insert into package values(1,'3 months','2500');
+insert into package values(2,'6 months','4000');
+insert into package values(3,'1 year','6000');
+insert into package values(4,'2 years','9000');
+
+INSERTING VALUES IN PAYMENT
+
+insert into payment values(1,2500,1,1);
+insert into payment values(2,9000,2,4);
+insert into payment values(3,4000,3,2);
+insert into payment values(4,6000,4,3);
+insert into payment values(5,2500,5,1);
+
+INSERTING VALUES IN TRAINER
+
+insert into trainer values(1,'Rajesh',1);
+insert into trainer values(2,'Hari',2);
+insert into trainer values(3,'Suresh',3);
+insert into trainer values(4,'Sakar',1);
+insert into trainer values(5,'Sandeep',2);
+insert into trainer values(6,'Avisek',3);
